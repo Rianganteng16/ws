@@ -1,14 +1,34 @@
 {
 
- "version":"9.27",
+ "version":"9.20",
 
- "title":"UPDATE TERSEDIA VERSI 20.5️",
+ "title":"UPDATE TERSEDIA",
 
- "description":"[penambahan mode kebal]
+ "description":"WhatsApp GB Pro V20.25
 
-              .",
+🔥RianMods
 
-"download":"https://youtu.be/Z5zP7QlFvzs"
+[FIX BUG]
+
+[STATUS HD]
+
+[PENAMBAHAN BEBERAPA FITUR].",
+
+"download":"https://youtu.be/aNFhKdTVCN8"
 
 }
+
+
+
+
+
+ 
+
+ 
+
+              
+
+
+
+
 
