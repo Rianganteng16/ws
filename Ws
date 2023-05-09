@@ -1,12 +1,13 @@
 {
 
- "version":"10",
+ "version":"9.27",
 
  "title":"UPDATE TERSEDIA",
 
  "description":"WhatsApp GB Pro V20.25
 
-🔥RianMods
+
+
 
 [FIX BUG]
 
